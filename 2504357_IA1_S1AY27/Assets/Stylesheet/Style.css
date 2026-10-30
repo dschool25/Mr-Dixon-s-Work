@@ -1,0 +1,243 @@
+/*Home Page*/
+body{
+    font-family:'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    background: rgb(40,124,226);
+background: radial-gradient(circle, rgba(40,124,226,1) 1%, rgba(16,243,240,0.7288165266106443) 100%);
+    
+}
+
+h1{
+    background-color: #0b0c10;
+    color: white;
+}
+div h1:hover{
+    color: aqua;
+}
+
+
+div{
+    font-size: 120;
+    color:#66fcf1;
+    padding: 1vw 0;
+    text-align: center;
+
+}
+
+
+nav {
+    padding: 10px 0;
+    text-align: center;
+   
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color:white; 
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+nav ul li a:hover {
+    color:aqua;
+}
+
+
+/*Paragraphs*/
+.Background{
+    font-size: 100%;
+    line-height: 1.8;
+    margin-bottom: 30px;
+    color: black;
+    padding-top: 5%;
+}
+.Background h2 {
+    color: white;
+    margin-bottom: 15px;
+}
+
+.Background P {
+    color: black;
+    margin: 10px;
+    display: block;
+}
+.reflectionhead{
+    color: white;
+    
+}
+.chapters{
+    color:black;
+    margin-top: auto;
+}
+.chapters h2{
+    color:black;
+}
+.chapters h1{
+    color: white;
+    
+}
+
+/*Professional page*/
+.resume{
+    width:40%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-bottom: 5%;
+
+}
+.Vission{
+    background-color:#1f2833;
+    font-size: 120;
+    color:#66fcf1;
+    padding: 5vw 0;
+    text-align: center;
+
+}
+.Vission h2{
+    color: white;
+}
+.RESUMECLASS{
+    text-align:left ;
+
+}
+h2{
+    color:white
+}
+.Resume{
+    text-align: left;
+    color:black;
+    background: rgb(40,124,226);
+background: radial-gradient(circle, rgba(40,124,226,1) 1%, rgba(16,243,240,0.7288165266106443) 100%);
+}
+.Resumeimg{
+    padding-left:35%;
+    height: 50%;
+    width: 30%;
+}
+
+.ResumeHeading{
+    display:block;
+    text-align: left;
+    color: black;
+}
+
+header{
+    background-color: black;
+    
+}
+.hover ul li a:hover{
+color:cyan;
+}
+/*Personalitypage*/
+
+body{
+background: rgb(40,124,226);
+background: radial-gradient(circle, rgba(40,124,226,1) 1%, rgba(16,243,240,0.7288165266106443) 100%);
+
+}
+.Personalityheadings h2{
+    color:black;
+    padding: 4vw;
+    font-size:190%;
+}
+.Personalityheadings h3{
+    color:black;
+    padding: 0.5vw;
+    
+
+}
+.Personalityheadings h4{
+    text-align: center;
+    padding: 0.5vw;
+    font-size: larger;
+}
+.Personalityheadings{
+    color: black;
+    text-align: left;
+    font-size:100%;
+   
+
+}
+.Personalityheadings p{
+    color: black;
+    margin: auto;
+}
+.Personalityquote{
+    text-align: center; 
+    margin: 10px; 
+    padding: 1vw;  
+}
+.Personalityquote h2{
+    padding: 1vw;
+
+}
+.Essay h2{
+    color: black;
+}
+.Imgquote{
+    width:100%;
+    align-items: center;
+    padding:20%;
+}
+.Quote{
+    width:35%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-bottom: 5%;
+}   
+
+/*Last section*/
+.Personalitytestimg{
+    width:30%;
+    padding: 5%;
+}
+.Essay h2{
+    color: white;
+}
+.Essay h3{
+    color: white;
+}
+.Essay p{
+    color: black;
+    text-align: left;
+    margin: 10px;
+    display: block
+
+}
+/*storyboard*/
+.Wireframelayout,
+.Mobile.wireframe{
+    width:35%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-bottom: 60px;
+
+}
+
+h1{
+text-align: center;
+color: aqua;
+}
+h2 {
+    text-align: center;
+    color: black;
+    padding:0.5vw;
+}
+.theme{
+    padding: 1.5vw;
+margin-left: auto;
+}
+.Features{
+    padding: 1.5vw;
+    color: black;
+
+}
